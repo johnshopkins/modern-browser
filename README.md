@@ -6,7 +6,10 @@ _Note: for best results, place this script in the `<head>` element._
 
 ### Usage
 
-`modernBrowser([condition]);`
+```javascript
+var modernBrowser = require("modern-browser");
+modernBrowser([condition]);
+```
 
 #### Example
 
