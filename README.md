@@ -1,4 +1,4 @@
-# window resize window
+# modern browser
 
 A module that determines if a browser is considered modern. For example, you could utilize [Modernizr](https://modernizr.com/) and pass the condition of `Modernizr.video`, which would add a class of `modern-browser` to the HTML element of browsers that support HTML5 video and `not-modern-browsers` for all others.
 
